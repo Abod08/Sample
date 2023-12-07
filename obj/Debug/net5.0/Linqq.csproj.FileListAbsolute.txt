@@ -1,0 +1,15 @@
+C:\Users\PRINCE\Desktop\Linqq\bin\Debug\net5.0\Linqq.exe
+C:\Users\PRINCE\Desktop\Linqq\bin\Debug\net5.0\Linqq.deps.json
+C:\Users\PRINCE\Desktop\Linqq\bin\Debug\net5.0\Linqq.runtimeconfig.json
+C:\Users\PRINCE\Desktop\Linqq\bin\Debug\net5.0\Linqq.runtimeconfig.dev.json
+C:\Users\PRINCE\Desktop\Linqq\bin\Debug\net5.0\Linqq.dll
+C:\Users\PRINCE\Desktop\Linqq\bin\Debug\net5.0\Linqq.pdb
+C:\Users\PRINCE\Desktop\Linqq\obj\Debug\net5.0\Linqq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PRINCE\Desktop\Linqq\obj\Debug\net5.0\Linqq.AssemblyInfoInputs.cache
+C:\Users\PRINCE\Desktop\Linqq\obj\Debug\net5.0\Linqq.AssemblyInfo.cs
+C:\Users\PRINCE\Desktop\Linqq\obj\Debug\net5.0\Linqq.csproj.CoreCompileInputs.cache
+C:\Users\PRINCE\Desktop\Linqq\obj\Debug\net5.0\Linqq.dll
+C:\Users\PRINCE\Desktop\Linqq\obj\Debug\net5.0\refint\Linqq.dll
+C:\Users\PRINCE\Desktop\Linqq\obj\Debug\net5.0\Linqq.pdb
+C:\Users\PRINCE\Desktop\Linqq\obj\Debug\net5.0\Linqq.genruntimeconfig.cache
+C:\Users\PRINCE\Desktop\Linqq\obj\Debug\net5.0\ref\Linqq.dll
